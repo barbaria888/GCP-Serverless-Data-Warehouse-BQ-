@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://github.com/barbaria888/GoogleCloudIAMPlaybook/blob/main/images/Identity%20And%20Access%20Management.png" height="70"> Google Cloud BigQuery Data Ingestion Lab </div>
+# <div align="center"><img src="https://github.com/barbaria888/GCP-Serverless-Data-Warehouse-BQ-/blob/main/images/BigQuery.png" height="70"> Google Cloud BigQuery Data Ingestion Lab </div>
 
 Welcome to the **BigQuery Data Ingestion Lab** repository. This guide walks you through the process of loading CSV data from Google Cloud Storage into BigQuery, managing table metadata, and executing SQL analytics. 
 
