@@ -68,7 +68,7 @@ Documentation must explain infrastructure from the perspective of an **enterpris
 Whenever introducing a Google Cloud service, use this concise format:
 
 ```
-☸️ [Service Name]
+✦ [Service Name]
 
 [Service Name] is [what it does and who manages it].
 
@@ -83,7 +83,7 @@ It [primary capability] while allowing teams to [what teams focus on instead].
 **Example:**
 
 ```
-☸️ Google Kubernetes Engine
+✦ Google Kubernetes Engine
 
 Google Kubernetes Engine (GKE) is Google's managed Kubernetes platform.
 
